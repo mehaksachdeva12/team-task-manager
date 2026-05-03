@@ -1,0 +1,26 @@
+# Team Task Manager
+
+## Features
+
+* Authentication (JWT)
+* Role-based access (Admin/Member)
+* Project & Task Management
+* Dashboard with status tracking
+
+## Tech Stack
+
+* React
+* Node.js + Express
+* MongoDB
+* Railway Deployment
+
+## Setup Instructions
+
+1. Clone repo
+2. Install dependencies
+3. Add environment variables
+4. Run backend & frontend
+
+## Live Demo
+team-task-manager-production-1884.up.railway.app
+
